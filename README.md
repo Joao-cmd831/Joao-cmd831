@@ -1,1 +1,1 @@
-<img src="anbu.gif" align="center" width="1000" height="300">
+<img src="anbu.gif" align="center" width="1280" height="360">
